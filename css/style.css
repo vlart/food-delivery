@@ -154,6 +154,11 @@ button {
     margin: 0 5px;
 }
 
+.warn-message {
+    display: none;
+    color: tomato;
+}
+
 .user-name {
     display: none;
     margin-right: 20px;
